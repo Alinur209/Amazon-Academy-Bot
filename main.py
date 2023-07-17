@@ -481,7 +481,7 @@ import re
 import sqlite3
 from telebot import types
 
-conn = sqlite3.connect('D:/SQLiteStudio/db_amazon_2023', check_same_thread=False)
+conn = sqlite3.connect('D:/SQLiteStudio/db_agit push -u origin maingit push -u origin mainn_2023', check_same_thread=False)
 cursor = conn.cursor()
 
 def db_table_val(user_id: int, user_name: str, user_surname: str, username: str, email: str, phone_number: str):
